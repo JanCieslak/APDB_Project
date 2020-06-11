@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APDB_AdvertApi", "APDB_AdvertApi\APDB_AdvertApi.csproj", "{EBF871B7-EC6C-4BBF-B3A5-4D6996B69ADD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBF871B7-EC6C-4BBF-B3A5-4D6996B69ADD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBF871B7-EC6C-4BBF-B3A5-4D6996B69ADD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBF871B7-EC6C-4BBF-B3A5-4D6996B69ADD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBF871B7-EC6C-4BBF-B3A5-4D6996B69ADD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5292005B-BC8D-44FA-B6A4-1FB776F945E1}
+	EndGlobalSection
+EndGlobal
